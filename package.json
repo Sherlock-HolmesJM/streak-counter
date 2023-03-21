@@ -7,6 +7,9 @@
   "author": "Justice",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "vitest"
+  },
   "devDependencies": {
     "typescript": "^5.0.2",
     "vite": "^4.2.1",
